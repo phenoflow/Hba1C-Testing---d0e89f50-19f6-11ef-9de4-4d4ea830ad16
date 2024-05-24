@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/diabetic-hba1c-testing---primary.py
+inputModule3:
+  class: File
+  path: python/hba1c-testing-borderline---primary.py
+inputModule4:
+  class: File
+  path: python/hba1c-testing-glycosylated---primary.py
+inputModule5:
+  class: File
+  path: python/hba1c-testing-haemoglobin---primary.py
+inputModule6:
+  class: File
+  path: python/hba1c-testing-level---primary.py
+inputModule7:
+  class: File
+  path: python/hba1c-testing-fructosamine---primary.py
+inputModule8:
+  class: File
+  path: python/hba1c-testing-control---primary.py
+inputModule9:
+  class: File
+  path: python/hba1c-testing-serum---primary.py
+inputModule10:
+  class: File
+  path: python/a1c---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
